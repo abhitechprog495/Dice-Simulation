@@ -44,7 +44,7 @@ button = tkinter.Button(root, text='Roll the Dice', fg='red', command=rolling_di
 
 # Pack the button widget into the parent widget
 
-button.pack( expand=True)
+button.pack(expand=True)
 
 # Start the main window and keep it active
 
